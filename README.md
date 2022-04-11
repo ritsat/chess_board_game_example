@@ -6,6 +6,6 @@ A Chess Game using Flutter.
 
 This project covers how to make chess game using flutter. Also it shows how to build more advance functionalities.
 
-Watch below [Youtube](https://www.youtube.com/watch?v=XmUEa_nbvh8) video for the code walkthrough,
+Watch below [Youtube](https://www.youtube.com/watch?v=R-3H6sbu6nw) video for the code walkthrough,
 
-[![Chess Board Game Example](https://img.youtube.com/vi/XmUEa_nbvh8/0.jpg)](https://www.youtube.com/watch?v=XmUEa_nbvh8)
+[![Chess Board Game Example](https://img.youtube.com/vi/R-3H6sbu6nw/0.jpg)](https://www.youtube.com/watch?v=R-3H6sbu6nw)
